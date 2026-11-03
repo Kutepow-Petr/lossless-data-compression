@@ -1,3 +1,5 @@
+![readme-image.jpg](assets/readme-image.jpg)
+
 # Lossless Data Compression
 
 Реализация и исследование базовых алгоритмов сжатия данных без потерь 
